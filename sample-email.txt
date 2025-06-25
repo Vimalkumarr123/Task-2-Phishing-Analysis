@@ -1,0 +1,13 @@
+Example content:
+
+From: PaypaI Support support@paypaI.com Subject: Urgent: Verify Your Account Now!
+
+Dear user,
+
+We noticed suspicious login activity on your account. To secure your account, please verify your identity immediately by clicking the link below:
+
+🔗 https://paypaI-security-check.com/login
+
+Failure to comply within 24 hours will result in account suspension.
+
+Sincerely, PayPal Security Team
